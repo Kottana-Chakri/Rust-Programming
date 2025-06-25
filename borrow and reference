@@ -1,0 +1,10 @@
+//KOTTANA CHAKRI
+//22PA1A0581
+fn main(){
+    let x= 10;
+    let mut _y=11;
+    let b=&x;
+    let z = *b;
+    println!("{}",b);
+    println!("{}",z);
+}
