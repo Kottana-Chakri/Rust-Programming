@@ -1,0 +1,6 @@
+//KOTTANA CHAKRI
+//22PA1A0581
+fn main(){
+let _tuples: (&str, u8, f32) = ("Ricky", 21, 3.56);
+println!("{:?}",_tuples);
+}
