@@ -1,0 +1,12 @@
+//KOTTANA CHAKRI
+//22pa1a0581
+//Write a program to check if a number is positive or negative
+fn main() {
+    let a = 10;
+    if a>0{
+        println!("positive ");
+    }
+    else{
+        println!("Negative");
+    }
+}
