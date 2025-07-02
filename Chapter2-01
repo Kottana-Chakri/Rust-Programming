@@ -1,0 +1,10 @@
+//KOTTANA CHAKRI
+//22pa1a0581
+fn main() {
+    let character: char = 'A';
+
+    let integer = char as u8;
+
+    println!("character = {}", character);
+    println!("integer = {}", integer);
+}
